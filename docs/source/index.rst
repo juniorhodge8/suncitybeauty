@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Suncity - suncity.beauty - Nhà Cái Cá Cược Hàng Đầu Với Dịch Vụ Đỉnh Cao
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `Suncity <https://suncity.beauty/>`_ là một trong những nền tảng cá cược và giải trí trực tuyến hàng đầu tại khu vực châu Á. Suncity cung cấp một loạt các trò chơi đa dạng, từ cá cược thể thao, casino trực tuyến cho đến các trò chơi bài đổi thưởng,.... Đặc biệt, Suncity chú trọng đến việc bảo mật thông tin người dùng và đảm bảo trải nghiệm chơi game công bằng. 
+Với sự đầu tư mạnh mẽ vào công nghệ và dịch vụ khách hàng, Suncity cam kết mang đến trải nghiệm giải trí chất lượng cao và an toàn cho người dùng. Suncity cũng nổi bật với các chương trình khuyến mãi hấp dẫn và sự hỗ trợ tận tình, giúp người chơi dễ dàng tiếp cận và tận hưởng các sản phẩm giải trí phong phú.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 5 Thích Quảng Đức, Phường 5, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0918620667. 
 
-Contents
---------
+Email: suncitybeauty@gmail.com. 
 
-.. toctree::
+Website: https://suncity.beauty/
 
-   usage
-   api
+#suncity #nhacaisuncity #dangkysuncity #trangchusuncity #linksuncity
